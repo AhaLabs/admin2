@@ -66,15 +66,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@astrojs/node@npm:^6.0.0":
-  version: 6.0.0
-  resolution: "@astrojs/node@npm:6.0.0"
+"@astrojs/node@npm:^8.3.4":
+  version: 8.3.4
+  resolution: "@astrojs/node@npm:8.3.4"
   dependencies:
-    send: ^0.18.0
+    send: ^0.19.0
     server-destroy: ^1.0.1
   peerDependencies:
-    astro: ^3.0.0
-  checksum: 60154aca014b81bd4f7480b0a228502ab170d254e3ad151824d2c95ff86fdd01adb94237312943ac32ab00a52a45d06fbc035438e757d8260dceca0c59c449a7
+    astro: ^4.2.0
+  checksum: 99b8a76bed1747b33f4bedfb6ffe785b20a7a222f73628924af4676307269fe2faa5a586f142b4fdeccdaf01ea29d75757bef56687acbd732655ddf23c32983e
   languageName: node
   linkType: hard
 
@@ -750,7 +750,7 @@ __metadata:
   resolution: "@example/basics@workspace:."
   dependencies:
     "@astrojs/netlify": ^3.0.1
-    "@astrojs/node": ^6.0.0
+    "@astrojs/node": ^8.3.4
     "@astrojs/react": ^3.0.2
     "@astrojs/tailwind": "*"
     "@radix-ui/react-collapsible": 1.0.2
@@ -6429,9 +6429,9 @@ prettier@latest:
   languageName: node
   linkType: hard
 
-"send@npm:^0.18.0":
-  version: 0.18.0
-  resolution: "send@npm:0.18.0"
+"send@npm:^0.19.0":
+  version: 0.19.0
+  resolution: "send@npm:0.19.0"
   dependencies:
     debug: 2.6.9
     depd: 2.0.0
@@ -6446,7 +6446,7 @@ prettier@latest:
     on-finished: 2.4.1
     range-parser: ~1.2.1
     statuses: 2.0.1
-  checksum: 74fc07ebb58566b87b078ec63e5a3e41ecd987e4272ba67b7467e86c6ad51bc6b0b0154133b6d8b08a2ddda360464f71382f7ef864700f34844a76c8027817a8
+  checksum: 5ae11bd900c1c2575525e2aa622e856804e2f96a09281ec1e39610d089f53aa69e13fd8db84b52f001d0318cf4bb0b3b904ad532fc4c0014eb90d32db0cff55f
   languageName: node
   linkType: hard
 
